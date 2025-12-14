@@ -73,6 +73,6 @@ ESP32 (BMP280)
 
 ## 5. Files Submitted
 
-* ESP32 Python source code: `./code/main.py`
-* Node-RED flow JSON: `./code/nodered.json`
-* Demo video: [Link to demo video](./media/demo.mp4)
+* [ESP32 Python Code](./code/main.py)
+* [Node-RED flow JSON](./code/nodered.json)
+* [Demo Video](./media/demo.mp4)
